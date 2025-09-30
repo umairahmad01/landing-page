@@ -1,2 +1,2 @@
 # landing-page
-Simple landing page using Html and CSS
+Simple landing page using Html and CSS(Flexbox)
